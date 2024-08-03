@@ -14,3 +14,4 @@ DaillyStock는 해외주식 API를 이용해 사용자에게 매일 주식 관�
 3. 메인 화면 관심 주식 정보 한눈에 제공
 4. 시세 관련 사용자화 할 수 있는 푸시 알림
 5. 관심 주식 관련 공시 등 새로운 소식 전달
+<img width="666" alt="스크린샷 2024-08-03 오후 11 45 37" src="https://github.com/user-attachments/assets/b45b02b1-049b-4bf0-bf24-103aaa1772b6">
